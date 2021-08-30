@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "934501097628",
+    "project_id": "mychatapp-1c5d1",
+    "storage_bucket": "mychatapp-1c5d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934501097628:android:51d9d1ac99283064d58d59",
+        "android_client_info": {
+          "package_name": "com.shreya.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934501097628-4ajg4ke5nh2mop14r9cml68gme4qi2uk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shreya.mychatapp",
+            "certificate_hash": "6e197e123092c812b747874649bdee0420193d26"
+          }
+        },
+        {
+          "client_id": "934501097628-cgoab4gc9k1m67n86untjb1rl1thu6ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrR6r-QkRQPlOhc1BN1Okthbf2x1aYkAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934501097628-cgoab4gc9k1m67n86untjb1rl1thu6ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
